@@ -17,6 +17,8 @@ import javafx.stage.Stage;
 
 public class AsteroidsApplication extends Application {
 
+    //Comment
+
     public static int WIDTH = 600;
     public static int HEIGHT = 400;
 
